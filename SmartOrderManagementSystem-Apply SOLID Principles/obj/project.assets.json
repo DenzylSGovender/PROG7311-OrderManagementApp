@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\SmartOrderManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\PROG7311-OrderManagementApp\\SmartOrderManagementSystem-Apply SOLID Principles\\SmartOrderManagementSystem.csproj",
       "projectName": "SmartOrderManagementSystem",
-      "projectPath": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\SmartOrderManagementSystem.csproj",
+      "projectPath": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\PROG7311-OrderManagementApp\\SmartOrderManagementSystem-Apply SOLID Principles\\SmartOrderManagementSystem.csproj",
       "packagesPath": "C:\\Users\\dengovender\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\obj\\",
+      "outputPath": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\PROG7311-OrderManagementApp\\SmartOrderManagementSystem-Apply SOLID Principles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

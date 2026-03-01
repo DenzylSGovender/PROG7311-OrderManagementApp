@@ -1,6 +1,6 @@
 ﻿using SmartOrderManagementSystem.Interfaces;
 
-namespace SmartOrderManagementSystem
+namespace SmartOrderManagementSystem.Services
 {
     public class SMSNotification : INotification
     {
