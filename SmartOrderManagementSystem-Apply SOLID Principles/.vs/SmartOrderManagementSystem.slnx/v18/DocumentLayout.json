@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\services\\paymentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:services\\paymentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\services\\paymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:services\\paymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\services\\notificationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:services\\notificationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\models\\orderresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:models\\orderresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\interfaces\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:interfaces\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\interfaces\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:interfaces\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|c:\\users\\dengovender\\onedrive - advtech ltd\\desktop\\vc work 2026\\semester 1 prep\\prog7311- programming 3a\\smartordermanagementsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9440B950-E4DC-43C9-B3E9-77581D202147}|SmartOrderManagementSystem.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Services\\OrderServices.cs",
+              "RelativeDocumentMoniker": "Services\\OrderServices.cs",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Services\\OrderServices.cs",
+              "RelativeToolTip": "Services\\OrderServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:23:10.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationServices.cs",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Services\\NotificationServices.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationServices.cs",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Services\\NotificationServices.cs",
+              "RelativeToolTip": "Services\\NotificationServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:23:44.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Services\\PaymentFactory.cs",
+              "RelativeDocumentMoniker": "Services\\PaymentFactory.cs",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Services\\PaymentFactory.cs",
+              "RelativeToolTip": "Services\\PaymentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:32:07.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentServices.cs",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Services\\PaymentServices.cs",
+              "RelativeDocumentMoniker": "Services\\PaymentServices.cs",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Services\\PaymentServices.cs",
+              "RelativeToolTip": "Services\\PaymentServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:23:24.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T14:31:27.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:30:38.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SMSNotification.cs",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\SMSNotification.cs",
+              "RelativeDocumentMoniker": "SMSNotification.cs",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\SMSNotification.cs",
+              "RelativeToolTip": "SMSNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:28:08.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderResults.cs",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Models\\OrderResults.cs",
+              "RelativeDocumentMoniker": "Models\\OrderResults.cs",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Models\\OrderResults.cs",
+              "RelativeToolTip": "Models\\OrderResults.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:20:43.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:12:36.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PayPalPayment.cs",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\PayPalPayment.cs",
+              "RelativeDocumentMoniker": "PayPalPayment.cs",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\PayPalPayment.cs",
+              "RelativeToolTip": "PayPalPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:25:28.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "EmailNotification.cs",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\EmailNotification.cs",
+              "RelativeToolTip": "EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:27:31.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "CreditCardPayment.cs",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\CreditCardPayment.cs",
+              "RelativeToolTip": "CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:24:47.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Interfaces\\IPaymentMethod.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPaymentMethod.cs",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Interfaces\\IPaymentMethod.cs",
+              "RelativeToolTip": "Interfaces\\IPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:21:45.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Interfaces\\INotification.cs",
+              "RelativeDocumentMoniker": "Interfaces\\INotification.cs",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Interfaces\\INotification.cs",
+              "RelativeToolTip": "Interfaces\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:22:01.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2026\\SEMESTER 1 PREP\\PROG7311- Programming 3A\\SmartOrderManagementSystem\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T14:20:09.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

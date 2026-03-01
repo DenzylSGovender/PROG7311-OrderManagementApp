@@ -1,0 +1,29 @@
+﻿<form method="post">
+
+    Customer:
+    <input name="CustomerName" />
+
+    Amount:
+    <input name="Amount" />
+
+    Payment:
+    <select name="PaymentType">
+        <option>Card</option>
+        <option>PayPal</option>
+    </select>
+
+    Notification:
+    <select name="NotificationType">
+        <option>Email</option>
+        <option>SMS</option>
+    </select>
+
+    <button type="submit">Submit</button>
+
+</form>
+
+@if (ViewBag.PaymentResult != null)
+{
+    <p>@ViewBag.PaymentResult</p>
+    <p>@ViewBag.NotificationResult</p>
+}
